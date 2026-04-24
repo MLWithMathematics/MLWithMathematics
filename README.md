@@ -43,9 +43,8 @@ An end-to-end pipeline for generating educational and cartoon content for childr
 ### 🤖 AI Job Automation Agent
 An intelligent system designed to streamline the internship and job application pipeline across major platforms.
 
-Status: Fully Functional. Successfully automated the end-to-end application process for LinkedIn and Naukri.
-
-Key Achievement: Developed a robust automation engine that identifies relevant listings and handles submissions, significantly reducing manual effort and increasing application volume.
+* Status: Fully Functional. Successfully automated the end-to-end application process for LinkedIn and Naukri.
+* Key Achievement: Developed a robust automation engine that identifies relevant listings and handles submissions, significantly reducing manual effort and increasing application volume.
 
 ---
 
