@@ -40,6 +40,12 @@ An end-to-end pipeline for generating educational and cartoon content for childr
 * **Status:** Specialized scripts focused on automated video generation with localized (Indian accent) voiceovers.
 * **Focus:** Generative AI and media automation.
 
+### 🤖 AI Job Automation Agent
+An intelligent system designed to streamline the internship and job application pipeline across major platforms.
+
+Status: Fully Functional. Successfully automated the end-to-end application process for LinkedIn and Naukri.
+
+Key Achievement: Developed a robust automation engine that identifies relevant listings and handles submissions, significantly reducing manual effort and increasing application volume.
 
 ---
 
@@ -49,7 +55,7 @@ An end-to-end pipeline for generating educational and cartoon content for childr
 | :--- | :--- |
 | **Frontend** | Next.js 14, React, Tailwind CSS |
 | **Backend** | Node.js, Express, Python |
-| **Database** | PostgreSQL, Neon, Prisma |
+| **Database** | PostgreSQL, Neon, Supabase, MySQL |
 | **AI/ML** | Scikit-learn (Random Forest), LLMs, AI Agents |
 | **DevOps** | Railway, GitHub Actions, Render, HuggingFace |
 
@@ -59,7 +65,8 @@ An end-to-end pipeline for generating educational and cartoon content for childr
 
 
 ## 📈 What's Next?
-* Enhancing AI agents for automated internship and job searches on LinkedIn and Naukri.
+* Enhancing AI agents system for automated "internship and job searches" on LinkedIn and Naukri.
+* Working On building Multi-Model ML system (One Click Provide Multiple solutions of Different Type Problems).
 * Expanding the **Mirofish** simulation capabilities to larger, more complex datasets.
 * Refining the **Fraud_Detection** model for higher precision and lower latency.
 
