@@ -20,10 +20,10 @@ I am a Data Science and Machine Learning developer focused on building scalable,
 
 ## 🏆 Key Achievements & Current Projects
 
-### 🌟 Luminary
-A feature-rich social media platform built with **Next.js** and **Express**. 
-* **Status:** Successfully stabilized and migrated to **Railway** for production-grade deployment.
-* **Focus:** Real-time interactions and optimized database connectivity.
+### 🏨 TopAvenue
+* **Active & Deployed.** The core architecture is complete, featuring a stabilized React frontend and a secure Supabase backend. The application is production-ready and configured for seamless, automated deployment on Vercel.
+* **Focus:** The project centers on delivering a premium user experience through a dynamic 4-step booking wizard, responsive UI elements, and split-panel authentication. Under the hood, it prioritizes comprehensive, data-driven dashboards to simultaneously handle customer self-service and full administrative control over rooms, staff, and payments.
+
 
 ### 🛡️ Fraud Detection System
 A machine learning pipeline integrated into a web interface.
@@ -34,6 +34,11 @@ A machine learning pipeline integrated into a web interface.
 A comprehensive e-commerce platform.
 * **Status:** Currently optimizing local environment performance and database synchronization with **Neon**.
 * **Focus:** UX/UI improvements and database scalability.
+
+### 🌟 Luminary
+A feature-rich social media platform built with **Next.js** and **Express**. 
+* **Status:** Successfully stabilized and migrated to **Railway** for production-grade deployment.
+* **Focus:** Real-time interactions and optimized database connectivity.  
 
 ### 🎬 Kids Video Automation Pipeline
 An end-to-end pipeline for generating educational and cartoon content for children.
@@ -52,9 +57,9 @@ An intelligent system designed to streamline the internship and job application 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | Next.js 14, React, Tailwind CSS |
-| **Backend** | Node.js, Express, Python |
-| **Database** | PostgreSQL, Neon, Supabase, MySQL |
+| **Frontend** | Next.js 14, React, Tailwind CSS, Vite |
+| **Backend** | Node.js, Express, Python, Supabase|
+| **Database** | PostgreSQL, Neon, MySQL |
 | **AI/ML** | Scikit-learn (Random Forest), LLMs, AI Agents |
 | **DevOps** | Railway, GitHub Actions, Render, HuggingFace |
 
@@ -64,8 +69,8 @@ An intelligent system designed to streamline the internship and job application 
 
 
 ## 📈 What's Next?
-* Enhancing AI agents system for automated "internship and job searches" on LinkedIn and Naukri.
-* Working On building Multi-Model ML system (One Click Provide Multiple solutions of Different Type Problems).
+* Enhancing Ai agents system for automated "internship and job searches" on LinkedIn and Naukri.
+* Working On Building Multi-Model ML system (One Click Provide a Multiple solutions of Different Type Problems).
 * Expanding the **Mirofish** simulation capabilities to larger, more complex datasets.
 * Refining the **Fraud_Detection** model for higher precision and lower latency.
 
