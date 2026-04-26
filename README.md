@@ -37,7 +37,7 @@ A comprehensive e-commerce platform.
 
 ### 🌟 Luminary
 A feature-rich social media platform built with **Next.js** and **Express**. 
-* **Status:** Successfully stabilized and migrated to **Railway** for production-grade deployment.
+* **Status:** Successfully stabilized and migrated to **Neon** Database for production-grade deployment.
 * **Focus:** Real-time interactions and optimized database connectivity.  
 
 ### 🎬 Kids Video Automation Pipeline
