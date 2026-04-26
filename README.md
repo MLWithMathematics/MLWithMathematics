@@ -1,4 +1,4 @@
-## Hello all 👋, Shubhankar here. Let's dive in.
+## Hello all 👋 Shubhankar here. Let's dive in.
 
 
 ***
