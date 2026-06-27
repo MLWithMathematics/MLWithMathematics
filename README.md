@@ -51,59 +51,45 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="45%" align="center" valign="top">
+<img align="right" width="41%" src="./output.gif" alt="Shubhankar Sharma — ML Engineer & AI Developer"/>
 
-<img src="./output.gif" alt="Shubhankar Sharma — ML Engineer & AI Developer" width="100%"/>
+### Hey there! I'm Shubhankar 👋
 
-</td>
-<td width="55%" valign="top">
-
-<h3>Hey there! I'm Shubhankar 👋</h3>
-
-<p>
-A passionate <strong>ML Engineer & AI Developer</strong> pursuing <em>M.Sc. Mathematics & Computing</em> at <strong>NIT Hamirpur</strong> (2025–2027). I build end-to-end AI-powered applications — from <strong>multi-agent LLM pipelines</strong> and <strong>RAG systems</strong> to <strong>computer vision models</strong> and full-stack web apps, bridging the gap between pure mathematics and real-world AI solutions.
-</p>
+A passionate **ML Engineer & AI Developer** pursuing *M.Sc. Mathematics & Computing* at **NIT Hamirpur** (2025–2027). I build end-to-end AI-powered applications — from **multi-agent LLM pipelines** and **RAG systems** to **computer vision models** and full-stack web apps, bridging the gap between pure mathematics and real-world AI solutions.
 
 <br/>
 
-<table>
-<tr><td>🎓</td><td><strong>M.Sc. Mathematics &amp; Computing</strong> @ NIT Hamirpur</td></tr>
-<tr><td>🤖</td><td>Specializing in <strong>Agentic AI, LLMs, RAG &amp; NLP</strong></td></tr>
-<tr><td>🧠</td><td>Passionate about <strong>Math × Machine Learning</strong></td></tr>
-<tr><td>🌐</td><td>Building <strong>production-grade AI + Full-Stack</strong> apps</td></tr>
-<tr><td>🚀</td><td>Seeking <strong>ML Engineer / AI Developer Internships</strong></td></tr>
-<tr><td>📍</td><td>Rajasthan, India</td></tr>
-<tr><td>📫</td><td><a href="mailto:shubhankar.s2000@gmail.com">shubhankar.s2000@gmail.com</a></td></tr>
-</table>
+| | |
+|:---:|:---|
+| 🎓 | **M.Sc. Mathematics & Computing** @ NIT Hamirpur |
+| 🤖 | Specializing in **Agentic AI, LLMs, RAG & NLP** |
+| 🧠 | Passionate about **Math × Machine Learning** |
+| 🌐 | Building **production-grade AI + Full-Stack** apps |
+| 🚀 | Seeking **ML Engineer / AI Developer Internships** |
+| 📍 | Rajasthan, India |
+| 📫 | [shubhankar.s2000@gmail.com](mailto:shubhankar.s2000@gmail.com) |
 
 <br/>
 
-<h4>💬 Ask Me About</h4>
+#### 💬 Ask Me About
 
-<p>
-<img src="https://img.shields.io/badge/LLMs-A855F7?style=flat-square" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React/Next.js"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" alt="Computer Vision"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=flat-square" alt="System Design"/>
-</p>
+![LLMs](https://img.shields.io/badge/LLMs-A855F7?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React / Next.js](https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-0D1117?style=flat-square)
 
 <br/>
 
-<h4>⚡ Fun Fact</h4>
-<p>I can explain <strong>backpropagation using Linear Algebra</strong> and ship a full-stack AI product in the same week 🧮🚀</p>
+#### ⚡ Fun Fact
 
-</td>
-</tr>
-</table>
+I can explain **backpropagation using Linear Algebra** and ship a full-stack AI product in the same week 🧮🚀
 
-<br/>
+<br clear="both"/>
 
 ---
 
