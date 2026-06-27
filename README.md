@@ -1,78 +1,379 @@
-## Hello all 👋 Shubhankar here. Let's dive in.
+<!-- ================================================================== -->
+<!--          GitHub Profile README — Shubhankar Sharma                 -->
+<!--          ML Engineer ❖ AI Developer ❖ Agentic AI Builder           -->
+<!-- ================================================================== -->
 
+<div align="center">
 
-***
+<!-- ══════════════════ HEADER WAVE ══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,23&height=220&section=header&text=Shubhankar%20Sharma&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%E2%9D%96%20AI%20Developer%20%E2%9D%96%20Agentic%20AI%20Builder&descAlignY=58&descSize=20" width="100%"/>
 
-# 🚀 Project Dashboard: ML & Full-Stack Ecosystem
+<br/>
 
-Welcome to the central command center for my ongoing projects and technical explorations. This dashboard provides a live overview of my work at the intersection of Machine Learning, AI automation, and modern web architecture.
+<!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
+<a href="https://github.com/MLWithMathematics">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=600&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+%26+LLM+Pipelines+%F0%9F%A4%96;ML+Engineer+%7C+NLP+%7C+Computer+Vision;RAG+%7C+Multi-Agent+AI+%7C+Full-Stack+Dev;Providing+AI+Solutions+That+Actually+Work+%F0%9F%9A%80;Turning+Math+into+Intelligence+%F0%9F%A7%A0" alt="Typing SVG"/>
+</a>
 
-## 🧑‍💻 Who I Am
-I am a Data Science and Machine Learning developer focused on building scalable, intelligent applications. My work bridges the gap between complex mathematical models and user-centric web interfaces.
+<br/><br/>
 
+<!-- ══════════════════ PROFILE METRICS ══════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=MLWithMathematics&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/MLWithMathematics?label=Followers&style=flat-square&color=7c3aed&logo=github&logoColor=white" alt="GitHub Followers"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Focus-ML%20%7C%20AI%20%7C%20Agentic%20Systems-A855F7?style=flat-square" alt="Focus"/>
 
+<br/><br/>
 
-## 🛠️ What I Do
-* **Full-Stack Development:** Architecting robust web applications using the **Next.js 14 (App Router)**, **Node.js**, and **Express** stack.
-* **Machine Learning:** Implementing predictive models—ranging from **Random Forest** classifiers to social simulation frameworks—to solve real-world problems.
-* **AI Automation:** Developing intelligent agents and pipelines for task automation, including job application streamlining and automated content generation.
-* **System Architecture:** Managing cloud deployments and database systems using **Railway**, **Neon**, and **PostgreSQL**.
+<!-- ══════════════════ SOCIAL LINKS ══════════════════ -->
+<a href="https://github.com/MLWithMathematics">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+<a href="https://linkedin.com/in/shubhankar-sharma-447381370">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://neuralnexus-iota.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="mailto:shubhankar.s2000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://instagram.com/shubhankarsharma__22">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-## 🏆 Key Achievements & Current Projects
+<br/><br/>
 
-### 🏨 TopAvenue
-* **Active & Deployed.** The core architecture is complete, featuring a stabilized React frontend and a secure Supabase backend. The application is production-ready and configured for seamless, automated deployment on Vercel.
-* **Focus:** The project centers on delivering a premium user experience through a dynamic 4-step booking wizard, responsive UI elements, and split-panel authentication. Under the hood, it prioritizes comprehensive, data-driven dashboards to simultaneously handle customer self-service and full administrative control over rooms, staff, and payments.
-
-
-### 🛡️ Fraud Detection System
-A machine learning pipeline integrated into a web interface.
-* **Status:** Implemented a **Random Forest** model with a Next.js frontend to detect and visualize fraudulent activity.
-* **Focus:** Practical application of classification algorithms in fintech.
-
-### 🛒 Wipsom
-A comprehensive e-commerce platform.
-* **Status:** Currently optimizing local environment performance and database synchronization with **Neon**.
-* **Focus:** UX/UI improvements and database scalability.
-
-### 🌟 Luminary
-A feature-rich social media platform built with **Next.js** and **Express**. 
-* **Status:** Successfully stabilized and migrated to **Neon** Database for production-grade deployment.
-* **Focus:** Real-time interactions and optimized database connectivity.  
-
-### 🎬 Kids Video Automation Pipeline
-An end-to-end pipeline for generating educational and cartoon content for children.
-* **Status:** Specialized scripts focused on automated video generation with localized (Indian accent) voiceovers.
-* **Focus:** Generative AI and media automation.
-
-### 🤖 AI Job Automation Agent
-An intelligent system designed to streamline the internship and job application pipeline across major platforms.
-
-* Status: Fully Functional. Successfully automated the end-to-end application process for LinkedIn and Naukri.
-* Key Achievement: Developed a robust automation engine that identifies relevant listings and handles submissions, significantly reducing manual effort and increasing application volume.
+</div>
 
 ---
 
-## 🔧 Technical Stack
+## 🧑‍💻 About Me
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js 14, React, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express, Python, Supabase|
-| **Database** | PostgreSQL, Neon, MySQL |
-| **AI/ML** | Scikit-learn (Random Forest), LLMs, AI Agents |
-| **DevOps** | Railway, GitHub Actions, Render, HuggingFace |
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
 
+<img src="./output.gif" alt="Shubhankar Sharma — ML Engineer & AI Developer" width="100%"/>
 
+</td>
+<td width="55%" valign="top">
 
-[Image of a machine learning workflow diagram]
+<h3>Hey there! I'm Shubhankar 👋</h3>
 
+<p>
+A passionate <strong>ML Engineer & AI Developer</strong> pursuing <em>M.Sc. Mathematics & Computing</em> at <strong>NIT Hamirpur</strong> (2025–2027). I build end-to-end AI-powered applications — from <strong>multi-agent LLM pipelines</strong> and <strong>RAG systems</strong> to <strong>computer vision models</strong> and full-stack web apps, bridging the gap between pure mathematics and real-world AI solutions.
+</p>
 
-## 📈 What's Next?
-* Enhancing Ai agents system for automated "internship and job searches" on LinkedIn and Naukri.
-* Working On Building Multi-Model ML system (One Click Provide a Multiple solutions of Different Type Problems).
-* Expanding the **Mirofish** simulation capabilities to larger, more complex datasets.
-* Refining the **Fraud_Detection** model for higher precision and lower latency.
+<br/>
+
+<table>
+<tr><td>🎓</td><td><strong>M.Sc. Mathematics &amp; Computing</strong> @ NIT Hamirpur</td></tr>
+<tr><td>🤖</td><td>Specializing in <strong>Agentic AI, LLMs, RAG &amp; NLP</strong></td></tr>
+<tr><td>🧠</td><td>Passionate about <strong>Math × Machine Learning</strong></td></tr>
+<tr><td>🌐</td><td>Building <strong>production-grade AI + Full-Stack</strong> apps</td></tr>
+<tr><td>🚀</td><td>Seeking <strong>ML Engineer / AI Developer Internships</strong></td></tr>
+<tr><td>📍</td><td>Rajasthan, India</td></tr>
+<tr><td>📫</td><td><a href="mailto:shubhankar.s2000@gmail.com">shubhankar.s2000@gmail.com</a></td></tr>
+</table>
+
+<br/>
+
+<h4>💬 Ask Me About</h4>
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-A855F7?style=flat-square" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-7C3AED?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React%20%2F%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React/Next.js"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square" alt="Deep Learning"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/System%20Design-0D1117?style=flat-square" alt="System Design"/>
+</p>
+
+<br/>
+
+<h4>⚡ Fun Fact</h4>
+<p>I can explain <strong>backpropagation using Linear Algebra</strong> and ship a full-stack AI product in the same week 🧮🚀</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
-📫 **Connect with me:** [https://www.linkedin.com/in/shubhankar-sharma-447381370]
+
+## 🚀 Currently Working On
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>🤖 Agentic AI Pipelines</h4>
+<p>Multi-agent LangGraph systems with Playwright browser automation &amp; hybrid RAG</p>
+</td>
+<td align="center" width="33%">
+<h4>🖐️ Air Canvas App</h4>
+<p>MediaPipe Hands gesture-controlled finger-painting application with real-time CV</p>
+</td>
+<td align="center" width="33%">
+<h4>🏆 ML Internship Hunt</h4>
+<p>Actively applying to ML Engineer &amp; AI Developer intern roles across India</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<h4>🔍 RAG Systems</h4>
+<p>ChromaDB &amp; Supabase pgvector retrieval-augmented generation pipelines</p>
+</td>
+<td align="center" width="33%">
+<h4>🌐 AI-Powered Web Apps</h4>
+<p>FastAPI backends + React / Next.js frontends with live LLM integration</p>
+</td>
+<td align="center" width="33%">
+<h4>🧮 Math for ML</h4>
+<p>Linear Algebra, Probability &amp; Optimization applied to deep learning</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🐍 Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css" alt="Languages"/>
+</div>
+
+<br/>
+
+### 🤖 AI / Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI ML Icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Groq-00CC44?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=flat-square" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Vector%20DBs-7C3AED?style=flat-square" alt="Vector DBs"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-6D28D9?style=flat-square" alt="RAG Pipelines"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square" alt="ONNX"/>
+
+</div>
+
+<br/>
+
+### ⚙️ Backend & APIs
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,express,flask" alt="Backend"/>
+</div>
+
+<br/>
+
+### 🎨 Frontend
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend"/>
+</div>
+
+<br/>
+
+### ☁️ Cloud & DevOps
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,vercel,linux" alt="Cloud and DevOps"/>
+</div>
+
+<br/>
+
+### 🗄️ Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases"/>
+</div>
+
+<br/>
+
+### 🔧 Tools & Platforms
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" alt="Tools"/>
+</div>
+
+<br/>
+
+### 🧮 Mathematics for ML
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linear%20Algebra-A855F7?style=flat-square" alt="Linear Algebra"/>
+<img src="https://img.shields.io/badge/Statistics-7C3AED?style=flat-square" alt="Statistics"/>
+<img src="https://img.shields.io/badge/Probability-6D28D9?style=flat-square" alt="Probability"/>
+<img src="https://img.shields.io/badge/Optimization%20Techniques-5B21B6?style=flat-square" alt="Optimization"/>
+<img src="https://img.shields.io/badge/Calculus-4C1D95?style=flat-square" alt="Calculus"/>
+<img src="https://img.shields.io/badge/Numerical%20Methods-3B0764?style=flat-square" alt="Numerical Methods"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h3>🤖 Agentic Job Application Pipeline</h3>
+<p>End-to-end autonomous pipeline targeting LinkedIn &amp; Naukri. Resume–JD semantic matching, one-click application submission, and anti-detection Playwright browser automation with LangGraph orchestration.</p>
+<p>
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3>🛡️ Fraud Shield — Real-Time Fraud Detection</h3>
+<p>ML-driven fraud detection system with FastAPI backend, high-performance XGBoost + TensorFlow models for real-time risk scoring. Deployed on Hugging Face Spaces &amp; Vercel.</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+</p>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3>🎓 RAG-Powered GATE AI Tutor</h3>
+<p>Personal AI tutor for GATE DS exam prep. Delivers instant RAG-based explanations for complex math, statistics, and ML concepts using vector similarity search over curated study material.</p>
+<p>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Groq-00CC44?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3>📹 8-Agent YouTube Automation System</h3>
+<p>Fully autonomous 8-agent pipeline: trend research → script generation → neural voiceovers → visual asset fetching → full video assembly — zero human intervention required.</p>
+<p>
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Groq-00CC44?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" alt="Whisper"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3>🌿 Plant Disease Detection (CNN)</h3>
+<p>CNN image classifier for plant disease identification from leaf photos using data augmentation and optimized architecture. Multi-class classification deployed as an interactive Streamlit web app.</p>
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3>🏨 TopAvenue — Luxury Hotel Booking</h3>
+<p>Premium hotel booking platform featuring a dynamic 4-step booking wizard, real-time admin dashboard, split-panel authentication, and a secure Supabase RLS backend — deployed on Vercel.</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MLWithMathematics&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=ffffff&count_private=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLWithMathematics&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=MLWithMathematics&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MLWithMathematics&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MLWithMathematics&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=A855F7&area=true&area_color=7C3AED" alt="Contribution Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,23&height=130&section=footer" width="100%"/>
+
+<br/>
+
+<em>⭐ Crafted with ❤️ by <strong>Shubhankar Sharma</strong> — ML Engineer &amp; AI Developer</em>
+
+<br/><br/>
+
+<a href="https://neuralnexus-iota.vercel.app/">🌐 Portfolio</a> &nbsp;•&nbsp;
+<a href="https://linkedin.com/in/shubhankar-sharma-447381370">💼 LinkedIn</a> &nbsp;•&nbsp;
+<a href="https://github.com/MLWithMathematics">🐙 GitHub</a> &nbsp;•&nbsp;
+<a href="mailto:shubhankar.s2000@gmail.com">📧 Email</a>
+
+</div>
