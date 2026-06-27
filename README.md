@@ -53,7 +53,7 @@
 
 <table>
 <tr>
-<td width="45%" align="center" valign="middle">
+<td width="45%" align="center" valign="top">
 
 <img src="./output.gif" alt="Shubhankar Sharma — ML Engineer & AI Developer" width="100%"/>
 
@@ -225,7 +225,16 @@ A passionate <strong>ML Engineer & AI Developer</strong> pursuing <em>M.Sc. Math
 ### 🔧 Tools & Platforms
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" alt="Tools"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace Spaces"/>
+
 </div>
 
 <br/>
