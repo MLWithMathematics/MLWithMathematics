@@ -51,7 +51,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="41%" src="./output.gif" alt="Shubhankar Sharma — ML Engineer & AI Developer"/>
+<img align="right" width="41%" src="https://raw.githubusercontent.com/MLWithMathematics/MLWithMathematics/main/profile.jpg" alt="Shubhankar Sharma — ML Engineer & AI Developer"/>
 
 ### Hey there! I'm Shubhankar 👋
 
@@ -85,9 +85,6 @@ A passionate **ML Engineer & AI Developer** pursuing *M.Sc. Mathematics & Comput
 
 <br/>
 
-#### ⚡ Fun Fact
-
-I can explain **backpropagation using Linear Algebra** and ship a full-stack AI product in the same week 🧮🚀
 
 <br clear="both"/>
 
